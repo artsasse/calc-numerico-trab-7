@@ -12,7 +12,9 @@
        - resolução da questão 2
   3. **Pipfile** 
        - arquivo que baixa os packages de python necessários nos demais arquivos
-  4. **calcnum.jl**
+  4. **README.md**
+       - arquivo com explicação sobre esse repositório
+  5. **calcnum.jl**
        - arquivo com algumas das funções implementadas no curso (auxílio durante a resolução da lista)
-  5. **enunciado.pdf**
+  6. **enunciado.pdf**
        - enunciados da lista 7
