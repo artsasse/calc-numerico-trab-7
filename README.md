@@ -1,15 +1,6 @@
 ## Resolução - Tarefa 7
 #### Cálculo Numérico - Prof. João Paixão
 
-#### Alunos - DRE: 
-- Arthur Mendonça Sasse - 117206692
-- Carla Moreno Barbosa - 117250502
-- Wesley Mota de Oliveira Gomes - 117094621
-
-#### Breve explicação dos arquivos: 
-## Resolução - Tarefa 7
-#### Cálculo Numérico - Prof. João Paixão
-
 #### Alunos: 
 - Arthur Mendonça Sasse - 117206692
 - Carla Moreno Barbosa - 117250502
